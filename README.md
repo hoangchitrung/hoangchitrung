@@ -1,5 +1,5 @@
 ### Hi There, glad to see you're here 👋
-I'm **Azazel**, a backend developer. I enjoy bringing ideas to life with code.
+You can call me **Orochi Chris** or **Chris**, a backend developer. I enjoy bringing ideas to life with code.
 
 Currently, I'm learning and building stuff with **Java**, **TypeScript**, **React**,... 
 - 💻 I love researching about computer.

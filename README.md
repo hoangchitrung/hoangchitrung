@@ -1,12 +1,22 @@
-### Hi There, glad to see you're here 👋
-You can call me **Orochi Chris** or **Chris**, a backend developer. I enjoy bringing ideas to life with code.
+# 🖥️ Accessing Database: Hoang Chi Trung...
+> **"I'll believe in you. That's why you have to believe in yourself."**
 
-Currently, I'm learning and building...
-- 💻 I love researching about computer.
-- 🛠️ I tinker with backend APIs and databases.
-- 🌱 Always curious, always learning (Currently Learning: Flutter, Django).
+## 📂 Profile Data
+- **Designation:** Chris (Orochi Chris)
+- **Specialization:** Backend Systems & Database Architecture
+- **Current OS:** `Fedora KDE 42` (Optimized for performance)
+- **Current Mission:** Mastering `Django` & `Flutter` to build the future.
 
-Here are my socials if you want to contact me:
+---
 
-- 💬 Discord: azazel_0938
-- 📧 Gmail: trunghoang1124@gmail.com
+## 🛠️ Combat Skills (Tech Stack)
+- **Core Engine:** C/C++, Java (Spring Boot), Python (Django).
+- **Sub-Weapons:** Node.js, TypeScript, Dart (Flutter).
+- **Data Protocols:** Tinkering with APIs and complex Databases.
+
+## 🛰️ Transmission Channels
+- **Discord:** `azazel_0938`
+- **Email:** `trunghoang1124@gmail.com`
+
+---
+*Verified by the Resistance Base.*

@@ -2,7 +2,7 @@
 > **"I'll believe in you. That's why you have to believe in yourself."**
 
 ## 📂 Profile Data
-- **Designation:** Chris (Orochi Chris)
+- **Designation:** Hoang Chi Trung
 - **Specialization:** Backend Systems & Database Architecture
 - **Current OS:** `Fedora KDE 42` (Optimized for performance)
 - **Current Mission:** Mastering `Django` & `Flutter` to build the future.

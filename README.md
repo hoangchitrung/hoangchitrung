@@ -11,7 +11,7 @@
 
 ## 🛠️ Combat Skills (Tech Stack)
 - **Core Engine:** C/C++, Java (Spring Boot), Python (Django).
-- **Sub-Weapons:** Node.js, TypeScript, Dart (Flutter).
+- **Sub-Weapons:** Node.js, JavaScript, Dart (Flutter).
 - **Data Protocols:** Tinkering with APIs and complex Databases.
 
 ## 🛰️ Transmission Channels

@@ -5,7 +5,7 @@
 - **Designation:** Hoang Chi Trung
 - **Specialization:** Backend Systems & Database Architecture
 - **Current OS:** `Fedora KDE 42` (Optimized for performance)
-- **Current Mission:** Mastering `Django` & `Flutter` to build the future.
+- **Current Mission:** Mastering `SprinbBoot` & `React` to build the future.
 
 ---
 

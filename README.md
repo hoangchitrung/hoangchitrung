@@ -1,22 +1,21 @@
-# 🖥️ Accessing Database: Hoang Chi Trung...
-> **"I'll believe in you. That's why you have to believe in yourself."**
+# 🖥️ Hoang Chi Trung (Faye) 🌸
+> **"Believe in the version of yourself that believes in you."** ✨
 
-## 📂 Profile Data
-- **Designation:** Hoang Chi Trung
-- **Specialization:** Backend Systems & Database Architecture
-- **Current OS:** `Fedora KDE 42` (Optimized for performance)
-- **Current Mission:** Mastering `Spring Boot` & `React` to build the future.
-
----
-
-## 🛠️ Combat Skills (Tech Stack)
-- **Core Engine:** C/C++, Java (Spring Boot), Python (Django).
-- **Sub-Weapons:** Node.js, JavaScript, Dart (Flutter).
-- **Data Protocols:** Tinkering with APIs and complex Databases.
-
-## 🛰️ Transmission Channels
-- **Discord:** `azazel_0938`
-- **Email:** `trunghoang1124@gmail.com`
+## 📂 Profile
+- **Status:** Final-year IT Student @ **HUTECH University** 🎓
+- **Focus:** Backend Systems (**Spring Boot**) & Modern UI (**React**). 🚀
+- **Environment:** `Fedora KDE 42` 🐧
 
 ---
-*Verified by the Resistance Base.*
+
+## 🛠️ Tech Stack
+- **Languages:** Java, Python, JavaScript, Dart.
+- **Frameworks:** Spring Boot, Django, Node.js, Flutter, React.
+- **Foundations:** C/C++ (Algorithmic Thinking & Memory Management). ⚙️
+
+## 🛰️ Reach Me
+- **Discord:** `azazel_0938` 👾
+- **Email:** `trunghoang1124@gmail.com` 📧
+
+---
+*Verified by the Resistance Base.* 🎀

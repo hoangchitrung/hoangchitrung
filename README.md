@@ -14,7 +14,7 @@
 - **Foundations:** C/C++ (Algorithmic Thinking & Memory Management). ⚙️
 
 ## 🛰️ Reach Me
-- **Discord:** `azazel_0938` 👾
+- **Discord:** `faye_1124` 👾
 - **Email:** `trunghoang1124@gmail.com` 📧
 
 ---

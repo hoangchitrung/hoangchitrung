@@ -1,21 +1,9 @@
-# 🖥️ Hoang Chi Trung (Faye) 🌸
-> **"Believe in the version of yourself that believes in you."** ✨
+# Hi, I'm Trung 🌸
 
-## 📂 Profile
-- **Status:** Final-year IT Student @ **HUTECH University** 🎓
-- **Focus:** Backend Systems (**Spring Boot**) & Modern UI (**React**). 🚀
-- **Environment:** `Fedora KDE 42` 🐧
+I teach computers to listen and talk — in Vietnamese, and entirely offline.
+These days that means self-hosted LLM, speech recognition and TTS at **YB Group**,
+plus relearning C properly, because I always wanted to be good at it.
 
----
+Have a look around — the pinned repos are the ones worth your time. 🎀
 
-## 🛠️ Tech Stack
-- **Languages:** Java, Python, JavaScript, Dart.
-- **Frameworks:** Spring Boot, Django, Node.js, Flutter, React.
-- **Foundations:** C/C++ (Algorithmic Thinking & Memory Management). ⚙️
-
-## 🛰️ Reach Me
-- **Discord:** `faye_1124` 👾
-- **Email:** `trunghoang1124@gmail.com` 📧
-
----
-*Verified by the Resistance Base.* 🎀
+`trunghoang1124@gmail.com` · Discord `faye_1124`
